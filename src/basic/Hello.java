@@ -10,6 +10,7 @@ public class Hello {
 		System.out.println("오늘은 \n 월요일입니다. 비가");
 		System.out.println("gurbub connected");
 		System.out.println("gurbub connected master");
+		System.out.println("gurbub connected2");
 	}
 
 }
